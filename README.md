@@ -1,7 +1,9 @@
 # newbie-tryout-two
  First Repo
  
- This is my first readme in GitHub
+ Here's an edited Readme that I'm trying out.
+ 
+ Maybe some **bold** text would be good.
 * Bulleted list
 * Datafiles are .csv
 * Data description file defines fields
